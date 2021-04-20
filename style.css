@@ -1,0 +1,52 @@
+.contairner{
+    max-width: 500px;
+    margin: auto;
+}body{
+    background-color: #80ccd0;
+}
+#umumi{
+    width: 600px; 
+    height: 500px;
+}
+#ust{
+    background-color: #fb6539;
+    border-radius: 3px;
+}
+#ust h3{
+    text-align: center;
+    color: white;
+    padding-top: 40px;
+    font-size: 20px;
+}
+#ust input{
+    width: 100%;
+    height: 70px;
+    background-color: #b93c24;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#ust input:hover{
+    background-color: skyblue;
+    width:90%;
+}
+#alt{
+    background-color: #b83b23;
+}
+#alt a{
+    color: white;
+    text-decoration: none;
+    margin-right: 40px;
+}
+#alt button{
+    width: 250px;
+    height: 70px;
+    color: #b93c24;
+    background-color: white;
+    padding: 20px;
+}
+input::placeholder{
+    color: blue;
+}
